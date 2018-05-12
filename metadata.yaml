@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9
     wikipedia: http://en.wikipedia.org/wiki/Herman_Melville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34970#Pierre--or-The-Ambiguities
 gutenberg_issued: '2011-01-15'
 gutenberg_type: Text
 identifiers:
